@@ -7,7 +7,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class NameDAO {
-    private static final String URL = "jdbc:mysql://localhost:3306/test_db";
+	private static final String URL = "jdbc:mysql://db:3306/test_db";
+
     private static final String USERNAME = "root";
     private static final String PASSWORD = "password";
 
